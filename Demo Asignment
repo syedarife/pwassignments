@@ -1,0 +1,26 @@
+1.What Is HTML?
+-> Html Is Also Known As Hyper-Text-MarkUp-Language It Is Used To Describe The Structure Of The Website By Using Various Tag's Like <h1>,<p>
+   etc..
+
+2.What Is CSS?
+
+--> CSS Is Also Known As Cascading Style Sheet It Is Used To Visually Desingned Or Styling The Websites Or Document Which Was Writtend In MarkupLanguage Like HTML. 
+
+3.What Is The Difference Between Front-End And Back-End?
+
+-->Front-End :
+   	Front-End It Is The Part Of The Website Where A User Can Visually See The Content Or Operations Done In That Website.
+ 
+-->Back-End:
+	Back_End It Is The Part Of The Website Where A User Cannon't See The Operation Or Processes Happening In The Website,The Operations Is Completly Done On Server-Side 
+	Like Storing User Data,Retreving Images From Server Etc.
+
+4.What Is JavaSript?
+
+-->It Is A Scripting Language Used To Add Some Additional Interactive Features To The Website Written In HTML And CSS,It Is Also Known As The Brain Of The Website.
+
+5.What Is Responsive Web Design?
+
+--> Responsive WebDesign Means Designing The Wrebsite To Adapt To A User's Devices.
+    Ex:- A Website Shuld Show Their Content According To The User Website For Example If A User Visit A XY Website On His Pc
+         And B User Visit That Same Website On His SmartPhone The Responsive Website Show The Contant On Based On That Resolution.
